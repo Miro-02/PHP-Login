@@ -1,0 +1,7 @@
+The task includes:
+Registration with validation and email verification;
+Login;
+Forgotten password, which is resetted via email; 
+Main page with the user's info;
+Change password, first name, last name and email;
+Database;
